@@ -1,1 +1,1 @@
-TRY HERE =>  https://tristanroel.github.io/MagicButton/
+RUN HERE =>                 https://tristanroel.github.io/MagicButton/
