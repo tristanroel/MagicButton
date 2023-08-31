@@ -1,2 +1,2 @@
-# TRY HERE =>                 https://tristanroel.github.io/MagicButton/
 ## react app
+https://tristanroel.github.io/MagicButton/
